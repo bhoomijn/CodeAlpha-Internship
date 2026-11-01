@@ -3,6 +3,7 @@
 A professional portfolio of Python projects completed during my CodeAlpha internship.
 
 ## Overview
+
 This repository showcases the hands-on Python projects I completed as part of the CodeAlpha internship program. It reflects my practical learning, problem-solving ability, and growing software development skills through real-world task-based implementation.
 
 The work in this repository highlights my ability to:
