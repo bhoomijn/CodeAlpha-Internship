@@ -1,24 +1,24 @@
 # CodeAlpha Internship
 
-A professional portfolio of the Python-based projects completed during the CodeAlpha internship program.
+A professional portfolio of the Python tasks completed during my CodeAlpha internship.
 
 ## Overview
-This repository documents the hands-on Python tasks completed during my CodeAlpha internship. Each project reflects practical learning, problem-solving, and the application of core programming concepts in a real-world, task-driven environment.
+This repository documents the hands-on programming work completed during the CodeAlpha internship. It is organized to showcase practical learning, real-world problem solving, and the development of functional Python projects in a clear, recruiter-friendly format.
 
 ## Internship Focus
 - Python programming fundamentals
 - Logic building and problem solving
-- Automation and utility design
-- Interactive application development
-- NLP and text-based workflow design
+- Automation and utility development
+- Interactive app design
+- Text-based AI and assistant logic
 
 ## Skills Demonstrated
 - Python development
-- Data structures and logic-building
-- CLI-based application design
+- Data structures and logic building
+- CLI application design
 - File handling and system operations
-- Basic natural language processing concepts
-- Practical task execution and documentation
+- Basic NLP and text processing
+- Practical project execution and documentation
 
 ## Tasks Included
 1. Hangman Game
@@ -27,7 +27,7 @@ This repository documents the hands-on Python tasks completed during my CodeAlph
 4. NLP Assistant
 
 ## Why This Repository Matters
-This repository is structured to be clear, professional, and easy for recruiters to review. It highlights the practical work completed during the internship and presents my learning journey in an organized, portfolio-friendly manner.
+This repository is designed to be easy for recruiters and evaluators to review. It presents internship work in a structured way, showing how I translated basic programming concepts into useful, working solutions.
 
 ## Project Structure
 
@@ -46,4 +46,4 @@ CodeAlpha-Internship/
 ```
 
 ## Summary
-These tasks reflect my ability to translate basic programming knowledge into working solutions, build useful small applications, and document work in a structured and professional way.
+These tasks reflect my ability to build practical Python applications, improve problem-solving skills, and document work in a professional and understandable way.

@@ -1,10 +1,10 @@
 # Task 02: Stock Portfolio Tracker
 
 ## Overview
-The Stock Portfolio Tracker is a Python-based utility designed to manage and monitor stock-related information in a simple and practical way.
+The Stock Portfolio Tracker is a Python-based utility designed to help users manage stock information in a simple and organized way.
 
 ## What I Built
-A portfolio tool that helps users track holdings, calculate value, and organize stock information through a simple command-line interface.
+A command-line portfolio tracker that allows users to store stock data, calculate value, and monitor holdings in a structured format.
 
 ## Skills Demonstrated
 - Python data handling
@@ -14,7 +14,7 @@ A portfolio tool that helps users track holdings, calculate value, and organize 
 - Practical utility development
 
 ## Why It Matters
-This project reflects the ability to build useful software for everyday tasks and shows a practical application of Python beyond classroom exercises.
+This project demonstrates real-world thinking and shows how Python can be used to build a useful tool for everyday data tracking.
 
 ## Outcome
-The project improved my understanding of structured data handling and the design of user-friendly utility tools.
+The project strengthened my understanding of structured data management and utility-focused Python development.
