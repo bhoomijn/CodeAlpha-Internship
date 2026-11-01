@@ -3,29 +3,31 @@
 A professional portfolio of the Python-based projects completed during the CodeAlpha internship program.
 
 ## Overview
-This repository showcases the hands-on programming tasks completed as part of my CodeAlpha internship journey. Each project reflects practical learning, logic building, and implementation of real-world programming concepts using Python.
+This repository documents the hands-on Python tasks completed during my CodeAlpha internship. Each project reflects practical learning, problem-solving, and the application of core programming concepts in a real-world, task-driven environment.
 
 ## Internship Focus
-- Python fundamentals
-- Problem solving and algorithmic thinking
+- Python programming fundamentals
+- Logic building and problem solving
 - Automation and utility design
 - Interactive application development
-- Text-based AI and assistant logic
+- NLP and text-based workflow design
 
 ## Skills Demonstrated
-- Python programming
-- Data structures and logic building
-- CLI application design
-- File and system operations
-- Basic NLP and text processing
-- Task-based project execution
+- Python development
+- Data structures and logic-building
+- CLI-based application design
+- File handling and system operations
+- Basic natural language processing concepts
+- Practical task execution and documentation
 
 ## Tasks Included
-
 1. Hangman Game
 2. Stock Portfolio Tracker
 3. CLI Utilities
 4. NLP Assistant
+
+## Why This Repository Matters
+This repository is structured to be clear, professional, and easy for recruiters to review. It highlights the practical work completed during the internship and presents my learning journey in an organized, portfolio-friendly manner.
 
 ## Project Structure
 
@@ -43,12 +45,5 @@ CodeAlpha-Internship/
 └── LICENSE
 ```
 
-## Portfolio Summary
-These tasks helped me strengthen my Python foundation and demonstrate the ability to build useful, interactive, and practical solutions. The work reflects a strong emphasis on execution, documentation, and continuous learning.
-
-## Why This Repository Matters
-This repository is designed to be recruiter-friendly and easy to review. It presents my internship work in a structured way that highlights:
-- technical consistency
-- practical implementation
-- problem-solving mindset
-- initiative and learning progression
+## Summary
+These tasks reflect my ability to translate basic programming knowledge into working solutions, build useful small applications, and document work in a structured and professional way.

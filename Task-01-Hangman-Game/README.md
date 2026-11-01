@@ -1,20 +1,20 @@
 # Task 01: Hangman Game
 
 ## Overview
-The Hangman Game is a classic word-guessing project designed to strengthen Python fundamentals through interactive gameplay and logic-driven decision making.
+The Hangman Game is a classic word-guessing project built using Python. It focuses on user interaction, logic development, and the implementation of a simple game flow.
 
 ## What I Built
-A terminal-based hangman game where the player tries to guess a hidden word one letter at a time. The game includes a limited number of incorrect attempts and provides feedback after each guess.
+A terminal-based game where the player tries to guess hidden letters before running out of attempts. The program gives feedback after each guess and tracks the current game state.
 
 ## Skills Demonstrated
 - Python basics
-- Loops and conditional logic
-- String handling
-- Randomized word selection
-- User interaction and game flow
+- Loops and conditions
+- String manipulation
+- Randomized value selection
+- Interactive user input handling
 
 ## Why It Matters
-This project is a strong example of early-stage programming skills, especially in handling user input, managing state, and designing a simple but engaging user experience.
+This project demonstrates early-stage programming confidence and shows the ability to create a small but engaging interactive application using core Python concepts.
 
 ## Outcome
-The project improved my confidence in building interactive desktop-style programs using Python and helped sharpen my ability to structure game logic clearly and efficiently.
+The task strengthened my understanding of logic flow, input validation, and interactive program design.
