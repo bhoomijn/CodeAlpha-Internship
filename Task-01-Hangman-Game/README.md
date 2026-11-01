@@ -7,6 +7,7 @@ The Hangman Game is a classic word-guessing project created using Python. It foc
 A terminal-based game where the player guesses letters to reveal a hidden word before running out of attempts. The program gives feedback after each guess and maintains the game state.
 
 ## Skills Demonstrated
+
 - Python basics
 - Loops and conditional logic
 - String manipulation
