@@ -1,5 +1,6 @@
 # CodeAlpha Internship
 
+
 A professional portfolio of Python projects completed during my CodeAlpha internship.
 
 ## Overview
