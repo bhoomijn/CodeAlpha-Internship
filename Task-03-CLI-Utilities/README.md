@@ -7,6 +7,7 @@ The CLI Utilities task focuses on creating lightweight command-line tools that a
 A set of Python utilities designed to perform useful functions directly from the terminal, emphasizing simplicity, efficiency, and practical problem solving.
 
 ## Skills Demonstrated
+
 - Python scripting
 - Function design
 - File and system operations
