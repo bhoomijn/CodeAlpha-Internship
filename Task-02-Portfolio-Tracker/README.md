@@ -6,6 +6,7 @@ A practical Python-based portfolio management tool designed to help users track 
 The Stock Portfolio Tracker is a beginner-friendly project built to demonstrate how Python can be used for real-world data tracking and basic financial management. It focuses on organizing user data, performing calculations, and building a simple command-line workflow.
 
 ## Project Objective
+
 To create a lightweight application that helps users:
 - store stock holdings
 - track current investment value
