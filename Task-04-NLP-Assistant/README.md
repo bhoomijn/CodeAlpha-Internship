@@ -1,17 +1,20 @@
 # Task 04: NLP Assistant
 
 ## Overview
-The NLP Assistant project focuses on building a simple natural language-based assistant using Python. It demonstrates beginner-level conversational logic and command interpretation.
+The NLP Assistant project focuses on building a simple conversational assistant using Python, with logic based on user input and pattern recognition.
+
+## What I Built
+A rule-based assistant that interprets common commands and responses from the user, simulating a lightweight interaction model using simple natural language processing techniques.
 
 ## Skills Demonstrated
 - Python programming
-- text processing
-- rule-based conversation design
-- input interpretation
-- basic NLP logic
+- Text processing
+- Rule-based logic design
+- Conversation flow handling
+- Basic NLP concepts
 
-## Project Goal
-Create a small assistant that can understand and respond to user queries through simple pattern-based text processing.
+## Why It Matters
+This project reflects my interest in intelligent systems and conversational interfaces. It shows how I translated simple language-processing concepts into an actual working solution.
 
 ## Outcome
-This task strengthened experience in text-based interaction systems and basic language understanding logic.
+The project enhanced my understanding of user interaction design and introduced me to fundamentals of NLP and conversational automation.

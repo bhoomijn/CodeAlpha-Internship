@@ -1,17 +1,20 @@
 # Task 03: CLI Utilities
 
 ## Overview
-The CLI Utilities task focuses on building small, practical command-line tools that automate basic operations and improve everyday productivity.
+The CLI Utilities project focuses on building small command-line tools that automate basic tasks and improve everyday productivity through efficient scripting.
+
+## What I Built
+A Python utility project designed to perform lightweight, practical operations through the terminal. It emphasizes reusable functions, efficient logic, and task-oriented execution.
 
 ## Skills Demonstrated
 - Python scripting
-- file and system operations
-- command-line interface design
-- automation logic
-- reusable utility functions
+- System and file operations
+- CLI-based interaction
+- Automation logic
+- Reusable function design
 
-## Project Goal
-Develop a set of command-line utilities that perform useful tasks efficiently from the terminal.
+## Why It Matters
+This project highlights practical problem solving and shows that I can build useful tools beyond demo-style exercises. It also demonstrates a good understanding of how Python can be used for automation and everyday utility tasks.
 
 ## Outcome
-This task highlighted automation thinking and the use of Python for real-world utility-driven development.
+The work helped me build confidence in creating software that is useful, efficient, and easy to run from a terminal environment.
