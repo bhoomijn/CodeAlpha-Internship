@@ -14,6 +14,7 @@ A lightweight assistant that interprets user input and responds based on predefi
 - Basic NLP concepts
 
 ## Why It Matters
+
 This project reflects my interest in intelligent systems and conversational interfaces and shows how I can apply basic AI concepts in a practical way.
 
 ## Outcome
